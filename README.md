@@ -1,7 +1,7 @@
 # Pneumonia Risk Predictor
 
 A machine learning-based clinical decision-support tool for pneumonia prediction, built as a B.Tech CS-106 project at Delhi Technological University.
-##•	https://pneumonia-predictor-delta.vercel.app/
+•	https://pneumonia-predictor-delta.vercel.app/
 
 
 ## Features
